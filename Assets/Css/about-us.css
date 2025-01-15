@@ -186,12 +186,15 @@ nav.scrolled {
 .image-inicio {
     width: 400px;
     height: 250px;
+    transition: transform 0.3s ease-in-out;
+
 }
 
 .images {
     width: 250px;
     height: 200px;
     background-color: white;
+    transition: transform 0.3s ease-in-out;
 }
 
 
@@ -217,4 +220,12 @@ nav.scrolled {
     background-color: white;
     padding: 1%;
     width: 90%;
+}
+
+.images:hover {
+    transform: scale(1.1);
+}
+
+.image-inicio:hover {
+    transform: scale(1.1);
 }
