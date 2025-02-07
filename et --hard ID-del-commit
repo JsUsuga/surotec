@@ -1,0 +1,15 @@
+[33me3e2aaa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31mupstream/gaby[m[33m, [m[1;31mupstream/esteban[m[33m, [m[1;31mupstream/beta[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: pull --rebase origin main (finish): returning to refs/heads/main
+[33me3e2aaa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31mupstream/gaby[m[33m, [m[1;31mupstream/esteban[m[33m, [m[1;31mupstream/beta[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: pull --rebase origin main (start): checkout e3e2aaad1abb7ef363c8cbec97cf8a888131af1a
+[33m597b572[m HEAD@{2}: commit: Se actualiza seccion de noticias, se elimina el formulario, se posiciona seccion de recientes y destacados. Tambien se agrega carousel al index en la seccion de alidados adaptando el fondo de la imagenes con el fondo de la seccion
+[33mb770c90[m HEAD@{3}: commit: se agrega pagina interna de noticas, se agrega iconos footer, se agrega a nav de navegacion Suronews. se agrega boostrap a seccion de recientes con boton de leer mas. se agrega javascript y campo de formulario en la seccion de noticas completas para comentarios de visitantes
+[33maeab189[m HEAD@{4}: checkout: moving from desarrollo to main
+[33mf85188d[m[33m ([m[1;31mupstream/desarrollo[m[33m, [m[1;32mdesarrollo[m[33m)[m HEAD@{5}: checkout: moving from sebas to desarrollo
+[33m80250fb[m[33m ([m[1;31mupstream/sebas[m[33m, [m[1;32msebas[m[33m)[m HEAD@{6}: checkout: moving from main to sebas
+[33maeab189[m HEAD@{7}: checkout: moving from e3e2aaad1abb7ef363c8cbec97cf8a888131af1a to main
+[33me3e2aaa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31mupstream/gaby[m[33m, [m[1;31mupstream/esteban[m[33m, [m[1;31mupstream/beta[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{8}: checkout: moving from main to upstream/main
+[33maeab189[m HEAD@{9}: commit: Prueba gaby, se agrega prueba de texto
+[33m8b9fb88[m HEAD@{10}: checkout: moving from 8b9fb88c20f2f06938a1da095b65e2aea8589959 to main
+[33m8b9fb88[m HEAD@{11}: checkout: moving from samuel to origin
+[33mc471a94[m[33m ([m[1;32msamuel[m[33m)[m HEAD@{12}: checkout: moving from main to samuel
+[33m8b9fb88[m HEAD@{13}: pull: Fast-forward
+[33ma4f161d[m[33m ([m[1;31mupstream/betas[m[33m)[m HEAD@{14}: clone: from https://github.com/GabrielaMontilla/surotec.git
